@@ -1,2 +1,7 @@
 # Spoken-Language-Processing
-Laboratories developed for the course of Spoken Language Processing 2023/2024 @ IST
+This repository contains the following modules:
+- Lab1: Speech Signal Processing.
+- Lab2: Native Language Identification using classical models and modern pre-trained models.
+- Lab3: Dialogue Systems.
+
+Lab2 and Lab3 include a report summarizing the work developed and presenting our findings and conclusions.
